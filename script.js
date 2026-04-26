@@ -6,7 +6,7 @@ const gifStages = [
     "https://media.tenor.com/uzTknCqPVBgAAAAi/tooji-bubududu.gif,       
     "https://media.tenor.com/j7bxg0MNS38AAAAi/bubu-dudu-sseeyall.gif,             
     "https://media.tenor.com/17G-Q4g2hIoAAAAi/dudu-angry.gif ,               
-    "https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif  // 
+    "https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif 
 ]
 
 const noMessages = [
